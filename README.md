@@ -32,6 +32,8 @@
 <a href="https://github.com/NexusrexDev/courses-management-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NexusrexDev&repo=courses-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
 </a>
+<br><br><br>
+<p><a href="https://www.holopin.io/@mazingerdev"><img src="https://holopin.me/MazingerDev" alt="@MazingerDev&;s Holopin board"></a></p>
     
 
 
