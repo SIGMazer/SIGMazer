@@ -21,16 +21,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><br><br>
 
-### 📕 Projects I've Contributed To
- 
 
-<a href="https://github.com/NexusrexDev/newsalligator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NexusrexDev&repo=newsalligator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<a href="https://github.com/NexusrexDev/courses-management-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NexusrexDev&repo=courses-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<br><br><br>
 
 ### 🏷️ Holopin Badges
 
