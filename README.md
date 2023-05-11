@@ -8,6 +8,8 @@
 
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mazin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SIGMazer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+### LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/SIGMazer?theme=nord&ext=activity)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
