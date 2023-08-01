@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7FDB&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mazin+;I'm+software+engineer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7FDB&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mazin+;" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SIGMazer&label=Profile%20views&color=0e75b6&style=flat" alt="SIGMazer" /> </p>
 
 ### 💻 Stats
@@ -8,7 +8,7 @@
   <br>
 
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mazin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SIGMazer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mazin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SIGMazer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
