@@ -12,7 +12,7 @@
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mazin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SIGMazer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> <br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mazin's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SIGMazer&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width ="400"/></a>
+  <a href="https://wakatime.com/@SIGMazer"><img alt="Mazin's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SIGMazer&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width ="400"/></a>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
