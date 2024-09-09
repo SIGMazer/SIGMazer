@@ -14,6 +14,8 @@
   
   <a href="https://wakatime.com/@SIGMazer"><img alt="Mazin's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SIGMazer&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width ="400"/></a>
 
+<a href="https://wakatime.com/@SIGMazer"><img src="https://wakatime.com/share/@SIGMazer/30ddf24d-f438-495c-8608-1718851c6f30.svg"></a>
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
