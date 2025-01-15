@@ -2,7 +2,7 @@
 
 - 💻 Interested in Compilers,  Open-source contributions, Site Reliability Engineering (SRE), and DevOps.
 - 💬 Ask me about C, Rust, or Python.
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/mazin-sayed-260086224/) | [Email](mazinasd7@gmail.com)
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/mazin-sayed-260086224/) | Email: mazinasd7@gmail.com
 
   <br>
 
