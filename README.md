@@ -10,7 +10,6 @@
 <a href="https://wakatime.com/@018c8e53-96d3-4c2b-a3bf-edd2581da275"><img src="https://wakatime.com/badge/user/018c8e53-96d3-4c2b-a3bf-edd2581da275.svg" alt="Total time coded since Dec 21 2023" /></a>
 </p> 
 
-<a href="https://gitroll.io/profile/u6BtQ9o1RYuOtZFTRdxJfCK0OZNV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6BtQ9o1RYuOtZFTRdxJfCK0OZNV2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 ### 🤖 Stats
 <p>
