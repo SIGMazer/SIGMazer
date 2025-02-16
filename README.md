@@ -17,6 +17,16 @@
 
 
 
+### 🔥 Streak Stats  
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="Mazin's Streak Stats" src="https://streak-stats.demolab.com/?user=SIGMazer&theme=github-dark-blue&border_radius=10" height="192px"/>
+  </a>
+</p>
+
+
+
 ### 🤖 GitHub Stats  
 
 <p align="center">
@@ -29,6 +39,8 @@
 </p>
 
 
+
+
 ### 📈 Contribution Activity  
 
 <p align="center">
@@ -37,7 +49,7 @@
   </a>
 </p>
 
-
+---
 
 ### 🏅 Holopin Badges  
 
