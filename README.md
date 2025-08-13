@@ -29,15 +29,16 @@
 
 ### 🤖 GitHub Stats  
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mazin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SIGMazer&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&border_radius=10&border_color=444C56" height="192px" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mazin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIGMazer&langs_count=10&layout=compact&theme=github_dark&border_radius=10&border_color=444C56&hide=Jupyter%20Notebook" height="192px" />
-  </a>
-</p>
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=88988252" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=88988252&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @SIGMazer" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=88988252&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
 
