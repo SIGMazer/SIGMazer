@@ -10,9 +10,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SIGMazer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://wakatime.com/@018c8e53-96d3-4c2b-a3bf-edd2581da275">
-    <img src="https://wakatime.com/badge/user/018c8e53-96d3-4c2b-a3bf-edd2581da275.svg" alt="Total time coded since Dec 21 2023" />
-  </a>
 </p> 
 
 
